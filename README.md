@@ -1,4 +1,5 @@
-### Olá!!! Seja bem vindo ao meu Github, meu nome é William Eustaquio Santos👋
+## Olá!!! Seja bem vindo ao meu Github, meu nome é William Eustaquio Santos👋
+
 
 ✨ Uma Breve Descrição das Atividade Exercidas:
 
@@ -10,6 +11,7 @@
 ✨ Trabalho Atualmente nas Empresa: 
    ⚡WES Consulting Ltda.; e
    ⚡Grunitzky Auditoria Ltda. (https://grunitzky.com.br)
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ✨ Algumas da Tecnologias Utilizadas nos desenvolvimentos dos Trabalhos: 
 
@@ -22,6 +24,10 @@
    <img widt='100' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" /> - 
 </div>
           
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+### Olá!!! Seja bem vindo ao meu Github, meu nome é William Eustaquio Santos👋
 
 <!--
 **WilliamESantos/WilliamESantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
