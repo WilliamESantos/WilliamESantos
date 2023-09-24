@@ -4,7 +4,7 @@
 
    ⚡Cientista de Dados, Business Analytics; 
    ⚡Investidor Profissional com foco nas bolsas de valores B3, CME, NASDAQ e NYSE; 
-   ⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e comercial;  
+   ⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e anãlise comercial;  
    ⚡Contador e Auditor dos setores industrial, comercial, prestações de serviços, hospitalar e plano de saúde. 
 
 ✨ Trabalho Atualmente nas empresa: 
