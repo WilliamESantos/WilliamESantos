@@ -1,6 +1,7 @@
 ### Olá! Seja bem vindo ao meu Github, meu nome é William Eustaquio Santos👋
 
-✨ Cientista de Dados, Business Analytics, Investidor Profisional (B3, CME, Nasdaq, NYSE), Contador, Consultor e Auditor. 
+✨ Cientista de Dados, Business Analytics, Investidor Profisional (B3, CME, Nasdaq, NYSE), Contador, Consultor e Auditor.
+
 ⚡ Trabalho Atualmente nas empresa: WES Consulting Ltda e Grunitzky Auditoria Ltda
 
 
