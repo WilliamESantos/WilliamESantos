@@ -1,5 +1,5 @@
-### Hi there! 👋
-
+### Olá! Seja bem vindo ao meu Github, meu nome é William Eustaquio Santos👋
+Cientista de Dados, Business Analytics, Investidor Profisional nas bolsas (B3, CME, Nasdaq, NYSE), Contador, Consultor e Auditor. 
 <!--
 **WilliamESantos/WilliamESantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
