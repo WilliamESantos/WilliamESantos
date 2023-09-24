@@ -3,6 +3,7 @@
 ✨ Cientista de Dados, Business Analytics, Investidor Profisional (B3, CME, Nasdaq, NYSE), Contador, Consultor e Auditor. 
 ⚡ Trabalho Atualmente nas empresa: WES Consulting Ltda e Grunitzky Auditoria Ltda
 
+
 <!--
 **WilliamESantos/WilliamESantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
