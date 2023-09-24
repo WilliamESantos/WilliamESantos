@@ -11,7 +11,7 @@
    ⚡WES Consulting Ltda.; e
    ⚡Grunitzky Auditoria Ltda. (https://grunitzky.com.br)
 
-✨ Atualmente Utilizo as Tecnologias: 
+✨ Atualmente Utilizo as Tecnologias nos desenvolvimentos dos Trabalhos: 
    
 <img widt='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />   <img widt='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
