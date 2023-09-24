@@ -5,7 +5,7 @@
 ⚡ Trabalho Atualmente nas empresa: WES Consulting Ltda e Grunitzky Auditoria Ltda (https://grunitzky.com.br)
 
 
-<img widt='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img widt='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 
           
           
