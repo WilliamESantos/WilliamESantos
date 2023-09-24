@@ -3,10 +3,13 @@ ________________________________________________________________________________
 
 ✨ Uma Breve Descrição das Atividade Exercidas:
 
-   ⚡Cientista de Dados, Business Analytics; 
-   ⚡Investidor Profissional com foco nas bolsas de valores B3, CME, NASDAQ e NYSE; 
-   ⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e anãlise comercial;  
-   ⚡Contador e Auditor dos setores industrial, comercial, prestação de serviço, plano de saúde e hospitalar.
+      ⚡Cientista de Dados, Business Analytics; 
+   
+      ⚡Investidor Profissional com foco nas bolsas de valores B3, CME, NASDAQ e NYSE; 
+   
+      ⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e anãlise comercial;  
+   
+      ⚡Contador e Auditor dos setores industrial, comercial, prestação de serviço, plano de saúde e hospitalar.
 
 ✨ Trabalho Atualmente nas Empresa: 
    ⚡WES Consulting Ltda.; e
@@ -26,8 +29,9 @@ ________________________________________________________________________________
           
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+✨ Confira meu perfil completo: 
 
-### Confira meu perfil completo: 
+
 
 <!--
 **WilliamESantos/WilliamESantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
