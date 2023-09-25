@@ -23,12 +23,12 @@ ________________________________________________________________________________
 ✨ Algumas da Tecnologias Utilizadas nos desenvolvimentos dos Trabalhos: 
 
 <div style="display: inline">
-   <img widt='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  -  
-   <img widt='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />  -  
-   <img widt='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />  -  
-   <img widt='50' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" /> - 
-   <img widt='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> - 
-   <img widt='100' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" /> - 
+   <img widt='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  
+   &nbsp;&nbsp;<img widt='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />   
+   &nbsp;&nbsp;<img widt='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />   
+   &nbsp;&nbsp;<img widt='50' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" /> 
+   &nbsp;&nbsp;<img widt='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+   &nbsp;&nbsp;<img widt='100' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" /> 
 </div>
           
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
