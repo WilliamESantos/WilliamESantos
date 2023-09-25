@@ -12,6 +12,7 @@ ________________________________________________________________________________
     ⚡Contador e Auditor dos setores industrial, comercial, prestação de serviço, plano de saúde e hospitalar.
 
 ✨ Trabalho Atualmente nas Empresa: 
+
    ⚡WES Consulting Ltda.; e
    
    ⚡Grunitzky Auditoria Ltda. (https://grunitzky.com.br)
