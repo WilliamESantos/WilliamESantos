@@ -1,15 +1,16 @@
-## Olá!!! Seja bem vindo ao meu Github, meu nome é William Eustaquio Santos👋
+## Olá! Seja bem vindo ao meu Github, meu nome é William Eustaquio Santos👋
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ✨ Uma Breve Descrição das Atividade Exercidas:
 
-   ⚡Cientista de Dados, Business Analytics; 
+    ⚡Cientista de Dados, Business Analytics; 
    
-   ⚡Investidor Profissional com foco nas bolsas de valores B3, CME, NASDAQ e NYSE; 
+    ⚡Investidor Profissional com foco nas bolsas de valores B3, CME, NASDAQ e NYSE; 
    
-   ⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e anãlise comercial;  
+    ⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e anãlise comercial;  
    
-   ⚡Contador e Auditor dos setores industrial, comercial, prestação de serviço, plano de saúde e hospitalar.
+    ⚡Contador e Auditor dos setores industrial, comercial, prestação de serviço, plano de saúde e hospitalar.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ✨ Trabalho Atualmente nas Empresa: 
 
