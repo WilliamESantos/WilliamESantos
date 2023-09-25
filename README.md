@@ -32,7 +32,15 @@ ________________________________________________________________________________
           
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-✨ Confira meu perfil completo: 
+✨ Confira meu perfil completo:                      
+<a href = "">
+<img widt='30' height='30' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />  
+<1/a>
 
- <img widt='30' height='30' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />  
+
+
+
+
+
+ 
 
