@@ -6,11 +6,13 @@ ________________________________________________________________________________
     ⚡Cientista de Dados, Business Analytics; 
    
     ⚡Investidor Profissional com foco nas bolsas de valores (B3, CME, NASDAQ e NYSE); 
+
+    https://www.b3.com.br/
    
     ⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e comercial;  
    
     ⚡Contador e Auditor dos setores industrial, comercial, prestação de serviço, plano de saúde e hospitalar.
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ✨ Trabalho Atualmente nas Empresa: 
 
@@ -37,10 +39,6 @@ ________________________________________________________________________________
 <a href = "https://linkedin.com/in/william-eustaquio-santos-0a106a117">
    <img widt='30' height='30' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />  
 </a>
-
-
-
-
 
 
  
