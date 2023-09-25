@@ -14,9 +14,9 @@ ________________________________________________________________________________
 
 ✨ Trabalho Atualmente nas Empresa: 
 
-   ⚡WES Consulting Ltda.; e
+    ⚡WES Consulting Ltda.; e
    
-   ⚡Grunitzky Auditoria Ltda. (https://grunitzky.com.br)
+    ⚡Grunitzky Auditoria Ltda. (https://grunitzky.com.br)
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ✨ Algumas da Tecnologias Utilizadas nos desenvolvimentos dos Trabalhos: 
