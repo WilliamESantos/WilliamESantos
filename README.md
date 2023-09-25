@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
     ⚡Cientista de Dados, Business Analytics; 
    
-    ⚡Investidor Profissional com foco nas bolsas de valores B3, CME, NASDAQ e NYSE; 
+    ⚡Investidor Profissional com foco nas bolsas de valores (B3, CME, NASDAQ e NYSE); 
    
     ⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e comercial;  
    
