@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 ✨ Confira meu perfil completo:  
 
-<a href = "www.linkedin.com/in/william-eustaquio-santos-0a106a117">
+<a href = "https://linkedin.com/in/william-eustaquio-santos-0a106a117">
    <img widt='30' height='30' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />  
 </a>
 
