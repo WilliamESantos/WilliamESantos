@@ -2,8 +2,8 @@
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 💫 About Me:
-   ✨Uma Breve Descrição das Atividade Exercidas:<br>⚡Cientista de Dados, Business Analytics; <br>⚡Investidor Profissional com foco nas bolsas de valores (B3, CME, NASDAQ e NYSE); <br>⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e comercial;  <br>⚡Contador e Auditor dos setores industrial, comercial, 
-   prestação de serviço, plano de saúde e hospitalar.<br><br>✨Trabalho Atualmente nas Empresas:<br>⚡WES Consulting Ltda.; e<br>⚡Grunitzky Auditoria Ltda. (https://grunitzky.com.br)
+✨Uma Breve Descrição das Atividade Exercidas:<br>⚡Cientista de Dados, Business Analytics; <br>⚡Investidor Profissional com foco nas bolsas de valores (B3, CME, NASDAQ e NYSE); <br>⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e comercial;  <br>⚡Contador e Auditor dos setores industrial, comercial, 
+ prestação de serviço, plano de saúde e hospitalar.<br><br>✨Trabalho Atualmente nas Empresas:<br>⚡WES Consulting Ltda.; e<br>⚡Grunitzky Auditoria Ltda. (https://grunitzky.com.br)
 
    
 ## 🌐 Socials:
