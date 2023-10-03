@@ -19,11 +19,13 @@ ________________________________________________________________________________
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamESantos&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WilliamESantos&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=WilliamESantos&theme=radical&no-frame=true&no-bg=false&margin-w=4) 
+
+https://github.com/WilliamESantos/WilliamESantos/assets/133704736/b29dafe1-8646-4175-bf8c-7c18d0989465
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-https://github.com/WilliamESantos/WilliamESantos/assets/133704736/b29dafe1-8646-4175-bf8c-7c18d0989465
+
 
 
 
