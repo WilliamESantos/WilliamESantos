@@ -2,7 +2,7 @@
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 💫 About Me:
-✨Uma Breve Descrição das Atividade Exercidas:<br>⚡Cientista de Dados, Business Analytics; <br>⚡Investidor Profissional com foco nas bolsas de valores (B3, CME, NASDAQ e NYSE); <br>⚡Consultor de projetos nas áreas:  Administrativa, financeira, investimento, custo, estoque, logística e comercial;  <br>⚡Contador e Auditor dos setores industrial, comercial, 
+✨Uma Breve Descrição das Atividade Exercidas:<br>⚡Data Science, Data Drive, Data Analytics, Data Lineage, Big Data, Business Analytics, Business Intelligence; <br>⚡Investidor Profissional com foco nas bolsas de valores (B3, CME, NASDAQ e NYSE); <br>⚡Consultor de projetos nas áreas:  Contábil, administrativa, financeira, investimento, custo, estoque, logística e comercial;  <br>⚡Contador e Auditor (CNAE) dos setores industrial, comercial, 
 prestação de serviço, plano de saúde e hospitalar.<br><br>  
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
