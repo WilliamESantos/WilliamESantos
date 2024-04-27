@@ -1,4 +1,4 @@
-## Ola! Seja bem vindo ao meu Github, meu nome é William Eustaquio Santos 👋
+## Ola! Seja bem vindo ao meu GitHub, meu nome é William Eustaquio Santos 👋
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 💫 About Me:
